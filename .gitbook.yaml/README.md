@@ -1,3 +1,3 @@
-# Samples
+# Releaseowl testing
 
-Once a client account is granted the special permissions to create administrator accounts, users with admin privileges can login to ReleaseOwl and use the admin account. It is through this account that the admin will assign roles and access to specific users of any given project.
+This guide is designed to help administrators effectively manage and configure ReleaseOwl. Whether you're setting up users, managing system configurations, or integrating with third-party tools, this guide provides clear instructions and best practices to ensure a seamless experience. Explore the sections below to get started with General Administration tasks or set up powerful integrations to enhance your workflows.&#x20;
